@@ -1,3 +1,4 @@
+USE ShopDB;
 --  1. Create a table `Student` with `StudentID` as Primary Key. Test inserting duplicate `StudentID`.
 CREATE TABLE DDLStudent
 (
