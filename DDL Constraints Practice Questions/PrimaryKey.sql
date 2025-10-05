@@ -143,4 +143,4 @@ INSERT INTO TestCustomer
     (CustomerID, CustomerName, ContactNumber)VALUES
     (1, 'John Doe', '123-456-7890'),
     (2, 'Jane Smith', '987-654-3210');
--- In SSMS, you can observe that a clustered index is created on CustomerID by default.
+    
