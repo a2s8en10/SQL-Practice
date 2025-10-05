@@ -1,5 +1,6 @@
 # SQL Server Constraints (DDL) - Interview-Level Practice Questions
 
+
 ## Primary Key (1-10)
 
 1. Create a table `Student` with `StudentID` as Primary Key. Test inserting duplicate `StudentID`.
